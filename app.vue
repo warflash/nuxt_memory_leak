@@ -1,6 +1,5 @@
 <template>
   <div>
-    <Client />
-    <Default />
+    <NuxtPage/>
   </div>
 </template>
